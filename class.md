@@ -1,2 +1,3 @@
 name
 location
+s
